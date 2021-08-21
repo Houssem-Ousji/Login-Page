@@ -87,14 +87,6 @@ input {
     }
 }
 
-@media (max-width:567px) {
-    .main .right_section {
-        width: 90%;
-        margin-right: auto;
-        margin-left: auto;
-    }
-}
-
 .main .right_section img {
     width: 120px;
     max-width: 100%;
@@ -153,7 +145,7 @@ input {
         font-size: 16px;
     }
     .main .right_section .password {
-        grid-template-columns: 7% 80% 7%;
+        grid-template-columns: 7% 80% 10%;
     }
 }
 
