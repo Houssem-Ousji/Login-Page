@@ -51,7 +51,6 @@ input {
     border-radius: 25px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    z-index: 1;
 }
 
 @media (max-width:768px) {
@@ -96,14 +95,6 @@ input {
     }
 }
 
-@media (max-width:370px) {
-    .main .right_section .username,
-    .main .right_section .password,
-    .main .right_section .forget {
-        width: 200px!important;
-    }
-}
-
 .main .right_section img {
     width: 120px;
     max-width: 100%;
@@ -113,8 +104,6 @@ input {
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
     color: #635cff;
-    word-spacing: 0.3rem;
-    letter-spacing: 0.03rem;
     text-align: center;
 }
 
@@ -137,6 +126,17 @@ input {
     grid-column-gap: 5px;
 }
 
+.main .right_section .password {
+    background-color: #eee;
+    width: 100%;
+    padding: 10px 10px;
+    display: grid;
+    grid-template-columns: 7% 84% 7%;
+    border-radius: 7px;
+    align-items: baseline;
+    grid-column-gap: 5px;
+}
+
 .main .right_section .username i,
 .main .right_section .password i {
     font-size: 22px;
@@ -152,22 +152,16 @@ input {
      ::placeholder {
         font-size: 16px;
     }
-}
-
-.main .right_section .password {
-    background-color: #eee;
-    width: 100%;
-    padding: 10px 10px;
-    display: grid;
-    grid-template-columns: 7% 84% 7%;
-    border-radius: 7px;
-    align-items: baseline;
-    grid-column-gap: 5px;
-}
-
-@media (max-width:576px) {
     .main .right_section .password {
         grid-template-columns: 7% 80% 7%;
+    }
+}
+
+@media (max-width:370px) {
+    .main .right_section .username,
+    .main .right_section .password,
+    .main .right_section .forget {
+        width: 200px!important;
     }
 }
 
@@ -177,7 +171,6 @@ input {
 }
 
 .main .right_section .forget {
-    width: 100%;
     width: 100%;
     text-align: right;
     color: black;
