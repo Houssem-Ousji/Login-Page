@@ -14,8 +14,6 @@
 * [<img align="left" alt="Javascript" width="26px" src="https://user-images.githubusercontent.com/86334640/125635046-a7e97a85-564a-4337-a5b8-c18f9cc0aedb.png" />]()javascript
 
 
-### Frameworks : 
-* [<img align="left" alt="Bootstrap" width="26px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />]()[Bootsrap](https://getbootstrap.com/)
 
 ### Libraries : 
 * [<img align="left" alt="Font Awesome" width="26px" src="https://www.drupal.org/files/project-images/font_awesome_logo.png" />]()[Font Awesome](https://fontawesome.com/)
