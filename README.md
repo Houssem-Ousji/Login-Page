@@ -1,7 +1,8 @@
 # Login-Page
 💻 A responsive login page
 ### Overview : 
-![mockup](https://user-images.githubusercontent.com/86334640/128451641-77ef47cd-6f6d-48ca-9484-42c3e4b4d4e0.png)
+![Capture](https://user-images.githubusercontent.com/86334640/130306829-932eeb0e-a822-434a-9f91-3e61a24d67d4.PNG)
+
 
 ### check the live Demo : [Login Page](https://houssem-ousji.github.io/Login-Page/)
 
@@ -13,8 +14,6 @@
 * [<img align="left" alt="Javascript" width="26px" src="https://user-images.githubusercontent.com/86334640/125635046-a7e97a85-564a-4337-a5b8-c18f9cc0aedb.png" />]()javascript
 
 
-### Frameworks : 
-* [<img align="left" alt="Bootstrap" width="26px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />]()[Bootsrap](https://getbootstrap.com/)
 
 ### Libraries : 
 * [<img align="left" alt="Font Awesome" width="26px" src="https://www.drupal.org/files/project-images/font_awesome_logo.png" />]()[Font Awesome](https://fontawesome.com/)
